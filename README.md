@@ -1,4 +1,4 @@
-# Brk Out
+# Froggr
 
 48 key orthogonal keyboard with offset bottom row
 
